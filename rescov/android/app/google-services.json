@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "367739320257",
+    "project_id": "rescov-96576",
+    "storage_bucket": "rescov-96576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367739320257:android:532fa46c4641e74299a140",
+        "android_client_info": {
+          "package_name": "com.example.rescov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "367739320257-4b01ugnkgve7noj7augm1dhpbreolnvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rescov",
+            "certificate_hash": "6e30f36e0e792263b2b697e3fe7bc532ce8f114d"
+          }
+        },
+        {
+          "client_id": "367739320257-fql3cfrk7ldujkjrjli0bcgj5mg9tdhb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMsoEK4LNsbZsmq83fio19nA2jaev_DyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "367739320257-fql3cfrk7ldujkjrjli0bcgj5mg9tdhb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
